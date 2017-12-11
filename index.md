@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<div>
+<div align=center>
 <h3>Welcome</h3>
 <p>
 Thanks for stopping by, here you will be able to find all the programming that I have been up to, as well as a little bit of information about me.<br>
@@ -16,7 +16,7 @@ please find links to my other spaces around the web below, as well as a link to 
 <hr>
 </div>
 
-<div>
+<div align=center>
 <h3>MSc GIS - University of Leeds</h3>
 <p>
 In 2017 I began a 1 year MSc at the University of Leeds in Geographical Information Systems (GIS),
@@ -25,7 +25,7 @@ In 2017 I began a 1 year MSc at the University of Leeds in Geographical Informat
 
 <hr>
 
-<div>
+<div align=center>
 <h3>BSc Geology and Petroleum Geology - University of Aberdeen</h3>
 <p>
 Between 2012 and 2016 I completed my undergraduate degree in Geology, the modules that 
