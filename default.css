@@ -306,7 +306,7 @@
 	#logo
 	{
 		position: absolute;
-		top: 3.6em;
+		top: 4.4em;
 		left: 0;
 	}
 	
@@ -347,11 +347,11 @@
 	
 	#menu li a, #menu li span
 	{
-		padding: 1em 1.5em;
+		padding: 1em 1.2em;
 		letter-spacing: 1px;
 		text-decoration: none;
 		text-transform: uppercase;
-		font-size: 0.8em;
+		font-size: .8em;
 		color: black;
 	}
 	
@@ -361,7 +361,7 @@
 	
 	#menu .active a
 	{
-		border: 2px solid Black);
+		border: 2px solid black);
 		border-radius: 6px;
 		color: black;
 	}
@@ -394,7 +394,7 @@
 	{
 		margin-top: 2em;
 		padding: 1.40em 3em;
-		border: 2px solid rgba(255,255,255,1);
+		border: 2px solid black);
 		border-radius: 6px;
 		font-weight: 700;
 		font-size: 1em;
@@ -497,7 +497,7 @@
 	#three-column .fa
 	{
 		display: block;
-		padding: 1em 0em;
+		padding: 1em 5em;
 		color: rgba(0,0,0,1);
 		font-size: 2em;
 	}
