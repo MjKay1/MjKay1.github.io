@@ -270,6 +270,12 @@
 		color: rgba(255,255,255,0.60);
 	}
 
+    .title .byline2
+	{
+		font-size: 1.3em;
+		color: black;
+	}
+
 /*********************************************************************************/
 /* Header                                                                        */
 /*********************************************************************************/
@@ -289,8 +295,8 @@
 	{
 		position: relative;
 		padding: 5em 0em 7em 0em;
-		background: #111111 url(images/mjk_header2.jpg) no-repeat center;
-		background-size: cover;
+		background: white url(images/mjk_header2.jpg) no-repeat center;
+		background-size: 100em;
 	}
 
 	#header
@@ -305,8 +311,8 @@
 
 	#logo
 	{
-		position: absolute;
-		top: 4.4em;
+		position: relative;
+		top: 0;
 		left: 0;
 	}
 	
@@ -361,7 +367,7 @@
 	
 	#menu .active a
 	{
-		border: 2px solid black);
+		border: 2px solid black;
 		border-radius: 6px;
 		color: black;
 	}
@@ -394,7 +400,7 @@
 	{
 		margin-top: 2em;
 		padding: 1.40em 3em;
-		border: 2px solid black);
+		border: 2px solid black;
 		border-radius: 6px;
 		font-weight: 700;
 		font-size: 1em;
@@ -470,7 +476,7 @@
 		background-size: cover;
 		text-align: center;
 	}
-	
+
 	#welcome .container
 	{
 		width: 1000px;
@@ -481,6 +487,32 @@
 	#welcome a
 	{
 		color: rgba(255,255,255,1);
+	}
+
+
+/*********************************************************************************/
+/* Welcome2                                                                       */
+/*********************************************************************************/
+
+	#welcome2
+	{
+		position: relative;
+		padding: 7em 0em 7em 0em;
+		background: white url(images/header-bg.png) no-repeat center;
+		background-size: cover;
+		text-align: center;
+	}
+
+	#welcome2 .container
+	{
+		width: 1000px;
+		padding: 0px 100px;
+		color: black;
+	}
+	
+	#welcome2 a
+	{
+		color: black;
 	}
 
 
@@ -513,4 +545,3 @@
 		text-align: center;
 		color: rgba(0,0,0,.5);
 	}
-
